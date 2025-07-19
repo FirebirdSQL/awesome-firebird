@@ -18,7 +18,7 @@ Awesome Firebird lists
 #### Supported by authors
 
 * C++: [SOCI](https://soci.sourceforge.net/), [Qt](https://github.com/qt/qtbase/tree/dev/src/plugins/sqldrivers/ibase)
-* Java: [FBJava](https://github.com/FirebirdSQL/fbjava), [Hibernate](https://hibernate.org/orm/),[EclipseLink](https://eclipse.dev/eclipselink/), [jOOQ](https://www.jooq.org/), [TopLink](https://www.oracle.com/middleware/technologies/top-link.html), [OpenJPA](https://openjpa.apache.org/), [Spring](https://spring.io/projects/spring-framework/)
+* Java: [FBJava](https://github.com/FirebirdSQL/fbjava), [Hibernate](https://hibernate.org/orm/), [EclipseLink](https://eclipse.dev/eclipselink/), [jOOQ](https://www.jooq.org/), [TopLink](https://www.oracle.com/middleware/technologies/top-link.html), [OpenJPA](https://openjpa.apache.org/), [Spring](https://spring.io/projects/spring-framework/)
 * Python: [Django-firebird](https://github.com/maxirobaina/django-firebird), [SQLAlchemy-firebird](https://github.com/pauldex/sqlalchemy-firebird), [peewee](https://github.com/coleifer/peewee), [pyfirebirdsql](https://github.com/nakagami/pyfirebirdsql/)
 * JavaScript: [node-firebird-drivers](https://github.com/asfernandes/node-firebird-drivers), [node-firebird-libfbclient](https://github.com/xdenser/node-firebird-libfbclient), [node-firebird](https://github.com/hgourvest/node-firebird)
 * PHP: [yii2-firebird](https://github.com/art009/yii2-firebird/), [Laravel-firebird](https://github.com/harrygulliford/laravel-firebird), [CI4-PDO-Firebird](https://github.com/leirags/CI4-PDO-Firebird), [CodeIgnighter](https://codeigniter.com/)
