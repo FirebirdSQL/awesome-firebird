@@ -4,6 +4,7 @@ Awesome Firebird lists
 ## Contents
 
 - [Language bindings](#language-bindings)
+- [Administration Tools](#administration-tools)
 
 ### Language bindings
 
@@ -40,3 +41,9 @@ Awesome Firebird lists
 * Pascal: [UIB](https://github.com/hgourvest/uib)
 * Ruby: [rubyfb](https://github.com/georgiev/rubyfb), [FireRuby](http://fireruby.rubyforge.org/), [Rails](https://github.com/rowland/activerecord-fb-adapter)
 * Lua: [fbclient](https://github.com/luapower/fbclient)
+
+### Administration Tools
+
+* [RedExpert](https://rdb.red-soft.ru/en/product/expert/)
+* [IBExpert](https://www.ibexpert.net/cms/)
+* [FlameRobin](http://www.flamerobin.org)
