@@ -47,3 +47,4 @@ Awesome Firebird lists
 * [RedExpert](https://rdb.red-soft.ru/en/product/expert/)
 * [IBExpert](https://www.ibexpert.net/cms/)
 * [FlameRobin](http://www.flamerobin.org)
+* [Database .NET](https://fishcodelib.com/database.htm)
