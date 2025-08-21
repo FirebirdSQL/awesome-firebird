@@ -38,7 +38,7 @@ Awesome Firebird lists
 * C++: [IBPP](https://sourceforge.net/projects/ibpp/)
 * Python: [Zope database adapter](https://github.com/nakagami/Products.FirebirdDA)
 * JavaScript: [node-firebird-libfbclient](https://github.com/xdenser/node-firebird-libfbclient)
-* Pascal: [UIB](https://github.com/hgourvest/uib)
+* Pascal: [UIB](https://github.com/zedalaye/uib)
 * Ruby: [rubyfb](https://github.com/georgiev/rubyfb), [FireRuby](http://fireruby.rubyforge.org/), [Rails](https://github.com/rowland/activerecord-fb-adapter)
 * Lua: [fbclient](https://github.com/luapower/fbclient)
 
