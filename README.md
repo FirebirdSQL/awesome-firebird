@@ -48,3 +48,4 @@ Awesome Firebird lists
 * [IBExpert](https://www.ibexpert.net/cms/)
 * [FlameRobin](http://www.flamerobin.org)
 * [Database .NET](https://fishcodelib.com/database.htm)
+* [BlackbirdSQL DDEX for VisualStudio](https://github.com/BlackbirdSQL/Firebird-DDEX-SqlEditor)
