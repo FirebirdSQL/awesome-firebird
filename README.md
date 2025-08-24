@@ -23,7 +23,7 @@ Awesome Firebird lists
 * Python: [Django-firebird](https://github.com/maxirobaina/django-firebird), [SQLAlchemy-firebird](https://github.com/pauldex/sqlalchemy-firebird), [peewee](https://github.com/coleifer/peewee), [pyfirebirdsql](https://github.com/nakagami/pyfirebirdsql/)
 * JavaScript: [node-firebird-drivers](https://github.com/asfernandes/node-firebird-drivers), [node-firebird-libfbclient](https://github.com/xdenser/node-firebird-libfbclient), [node-firebird](https://github.com/hgourvest/node-firebird)
 * PHP: [pdo-firebird](https://github.com/php/php-src/tree/master/ext/pdo_firebird), [yii2-firebird](https://github.com/art009/yii2-firebird/), [Laravel-firebird](https://github.com/harrygulliford/laravel-firebird), [CI4-PDO-Firebird](https://github.com/leirags/CI4-PDO-Firebird), [CodeIgnighter](https://codeigniter.com/)
-* Pascal: [IBX](https://mwasoftware.co.uk/ibx), [ZeosLib](https://sourceforge.net/projects/zeoslib/)
+* Pascal: [IBX](https://github.com/MWASoftware/ibx4lazarus), [ZeosLib](https://sourceforge.net/projects/zeoslib/)
 * Go: [Go firebird sql driver](https://github.com/nakagami/firebirdsql), [GORM firebird driver](https://github.com/flylink888/gorm-firebird)
 * Ruby: [fb](https://github.com/rowland/fb)
 * Elixir: [Elixir database driver for Firebird](https://github.com/nakagami/firebirdex), [Ecto Firebird adapter](https://github.com/nakagami/ecto_firebird)
