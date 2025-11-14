@@ -10,7 +10,7 @@ Awesome Firebird lists
 
 #### Officially supported by Firebird Foundation
 
-* C++: [Firebird OO API](https://github.com/FirebirdSQL/firebird/blob/master/doc/Using_OO_API.html), [Firebird ISC API](https://github.com/FirebirdSQL/firebird/blob/master/src/include/ibase.h), [ODBC](https://github.com/FirebirdSQL/firebird-odbc-driver)
+* C++: [Firebird OO API](https://github.com/FirebirdSQL/firebird/blob/master/doc/Using_OO_API.md), [Firebird ISC API](https://github.com/FirebirdSQL/firebird/blob/master/src/include/ibase.h), [ODBC](https://github.com/FirebirdSQL/firebird-odbc-driver)
 * Java: [Jaybird](https://github.com/FirebirdSQL/jaybird)
 * .NET: [ADO.NET Data Provider](https://github.com/FirebirdSQL/NETProvider)
 * Python: [firebird-driver](https://github.com/FirebirdSQL/python3-driver), [fdb](https://github.com/FirebirdSQL/fdb)
