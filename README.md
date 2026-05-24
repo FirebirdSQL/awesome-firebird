@@ -32,6 +32,7 @@ Awesome Firebird lists
 * Perl: [Perl-dbd-firebird](https://github.com/mariuz/perl-dbd-firebird)
 * Dart: [fbdb](https://github.com/hipercompl/fbdb)
 * Julia: [Firebird.il](https://github.com/nakagami/Firebird.jl)
+* V: [einar-hjortdal/firebird](https://github.com/einar-hjortdal/firebird)
 
 #### Unsupported
 
