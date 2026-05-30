@@ -21,7 +21,7 @@ Awesome Firebird lists
 * C++: [SOCI](https://soci.sourceforge.net/), [Qt](https://github.com/qt/qtbase/tree/dev/src/plugins/sqldrivers/ibase), [fb-cpp](https://github.com/asfernandes/fb-cpp)
 * Java: [FBJava](https://github.com/FirebirdSQL/fbjava), [Hibernate](https://hibernate.org/orm/), [EclipseLink](https://eclipse.dev/eclipselink/), [jOOQ](https://www.jooq.org/), [TopLink](https://www.oracle.com/middleware/technologies/top-link.html), [OpenJPA](https://openjpa.apache.org/), [Spring](https://spring.io/projects/spring-framework/)
 * Python: [Django-firebird](https://github.com/maxirobaina/django-firebird), [SQLAlchemy-firebird](https://github.com/pauldex/sqlalchemy-firebird), [peewee](https://github.com/coleifer/peewee), [pyfirebirdsql](https://github.com/nakagami/pyfirebirdsql/)
-* JavaScript: [node-firebird-drivers](https://github.com/asfernandes/node-firebird-drivers), [node-firebird-libfbclient](https://github.com/xdenser/node-firebird-libfbclient), [node-firebird](https://github.com/hgourvest/node-firebird)
+* JavaScript: [node-firebird-drivers](https://github.com/asfernandes/node-firebird-drivers), [node-firebird-libfbclient](https://github.com/xdenser/node-firebird-libfbclient), [node-firebird](https://github.com/hgourvest/node-firebird), [firebird-knex](https://github.com/igorklopov/firebird-knex)
 * PHP: [pdo-firebird](https://github.com/php/php-src/tree/master/ext/pdo_firebird), [yii2-firebird](https://github.com/art009/yii2-firebird/), [Laravel-firebird](https://github.com/harrygulliford/laravel-firebird), [CI4-PDO-Firebird](https://github.com/leirags/CI4-PDO-Firebird), [CodeIgnighter](https://codeigniter.com/)
 * Pascal: [IBX](https://github.com/MWASoftware/ibx4lazarus), [ZeosLib](https://sourceforge.net/projects/zeoslib/)
 * Go: [Go firebird sql driver](https://github.com/nakagami/firebirdsql), [GORM firebird driver](https://github.com/flylink888/gorm-firebird)
@@ -45,7 +45,7 @@ Awesome Firebird lists
 
 ### Administration Tools
 
-* [RedExpert](https://rdb.red-soft.ru/en/product/expert/)
+* [RDBExpert](https://rdb.red-soft.ru/en/product/expert/)
 * [IBExpert](https://www.ibexpert.net/cms/)
 * [FlameRobin](http://www.flamerobin.org)
 * [Database .NET](https://fishcodelib.com/database.htm)
