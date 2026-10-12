@@ -51,3 +51,4 @@ Awesome Firebird lists
 * [Database .NET](https://fishcodelib.com/database.htm)
 * [BlackbirdSQL DDEX for VisualStudio](https://github.com/BlackbirdSQL/Firebird-DDEX-SqlEditor)
 * [Beekeeper Studio](https://www.beekeeperstudio.io/db/firebird-client/)
+* [VisuaLeaf](https://visualeaf.com/database/firebird/)
