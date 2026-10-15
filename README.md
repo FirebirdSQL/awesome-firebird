@@ -5,6 +5,7 @@ Awesome Firebird lists
 
 - [Language bindings](#language-bindings)
 - [Administration Tools](#administration-tools)
+- [Recovery Tools](#recovery-tools)
 
 ### Language bindings
 
@@ -51,3 +52,8 @@ Awesome Firebird lists
 * [Database .NET](https://fishcodelib.com/database.htm)
 * [BlackbirdSQL DDEX for VisualStudio](https://github.com/BlackbirdSQL/Firebird-DDEX-SqlEditor)
 * [Beekeeper Studio](https://www.beekeeperstudio.io/db/firebird-client/)
+
+### Recovery Tools
+
+* [fbrescue](https://github.com/formeo/fbrescue) - open source (MIT), read-only: inspects database files and exports data to CSV, SQL or JSON Lines without the Firebird engine (Firebird 2.5-5.0)
+* [IBSurgeon FirstAID](https://ib-aid.com/en/ibsurgeon-firstaid/) - commercial: diagnoses and repairs corrupted Firebird and InterBase databases
