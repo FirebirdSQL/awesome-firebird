@@ -15,6 +15,7 @@ Awesome Firebird lists
 * .NET: [ADO.NET Data Provider](https://github.com/FirebirdSQL/NETProvider)
 * Python: [firebird-driver](https://github.com/FirebirdSQL/python3-driver), [fdb](https://github.com/FirebirdSQL/fdb)
 * PHP: [php-firebird](https://github.com/FirebirdSQL/php-firebird)
+* Go: [fbx](https://github.com/FirebirdSQL/fbx)
 
 #### Supported by authors
 
